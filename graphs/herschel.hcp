@@ -1,0 +1,25 @@
+NAME : herschel.hcp
+COMMENT : Example Graph without Hailtonian Cycle
+TYPE : HCP
+DIMENSION : 11
+EDGE_DATA_FORMAT : EDGE_LIST
+EDGE_DATA_SECTION
+1 2
+1 3
+1 4
+2 5
+2 6
+3 6
+3 7
+4 5
+4 8
+9 3
+9 4
+9 10
+10 7
+10 8
+5 11
+6 11
+7 11
+8 11
+EOF
